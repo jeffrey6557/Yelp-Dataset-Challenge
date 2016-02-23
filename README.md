@@ -1,5 +1,5 @@
 # Yelp-Dataset-Challenge
-Harvard AM 207 Final Project 2015. Chang Liu, Richard Kim and Joe Palin.
+Harvard AM 207 Final Project (2015). Chang Liu, Richard Kim and Joe Palin.
 
 ### Abstract
 
